@@ -1,2 +1,2 @@
 # for_magazines
-my articles for some magazines
+my codes for some magazines
